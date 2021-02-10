@@ -8,4 +8,4 @@ sudo figlet -c "SUBSCRIBE TO"
 sudo figlet -c Big
 sudo figlet -c Fang
 sudo echo https://www.youtube.com/channel/UCMkk-akdGTugIVu10-bXQEQ
-sudo bash chromeos-install.sh -src rammus_recovery.bin -dst /dev/sda
+sudo bash chromeos-install.sh -src grunt_recovery.bin -dst /dev/sda
